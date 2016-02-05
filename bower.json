@@ -1,0 +1,16 @@
+{
+  "name": "comp2068lab3",
+  "description": "COMP2068 Lab 3 deployed to Azure",
+  "main": "",
+  "authors": [
+    "Taisen Colcher"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bleep-Bloop/comp2068week4",
+  "moduleType": [],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
