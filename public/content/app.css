@@ -1,1 +1,27 @@
 /* custom css file */
+
+#profilePicture {
+    padding: 10px;   
+    height: 170px;
+
+}
+
+body {
+    background-color: lightgrey;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+small {
+    
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+textarea {
+    resize: none;
+}
