@@ -34,5 +34,26 @@ textarea {
 
 
 
+#project2picture {
+    
+    position: absolute;
+    top: 375px;
+    left: 0;   
+}
 
+#project1text {
+    position: absolute;
+    top: 126px;
+    left: 220px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  
+}
+
+#project2text {
+    position: absolute;
+    top: 380px;
+    left: 220px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
 
