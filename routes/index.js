@@ -1,3 +1,10 @@
+/*
+File Name: index.js
+Author: Taisen Colcher
+Website http://taisencolcher-advancedwebassignment1.azurewebsites.net/contact / TaisenColcher.com
+Sends you to the different pages
+ */
+ 
 var express = require('express');
 var router = express.Router();
 
