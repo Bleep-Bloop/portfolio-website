@@ -6,6 +6,7 @@ Website http://taisencolcher-advancedwebassignment1.azurewebsites.net/contact / 
  */
 
 #profilePicture {
+    float: left;
     padding: 10px;   
     height: 170px;
 
@@ -30,3 +31,8 @@ small {
 textarea {
     resize: none;
 }
+
+
+
+
+
