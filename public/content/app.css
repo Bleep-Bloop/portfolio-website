@@ -5,6 +5,11 @@ Website http://taisencolcher-advancedwebassignment1.azurewebsites.net/contact / 
  Css style sheet for TaisenColcher.com
  */
 
+body {
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       background-color: lightgrey;
+}
+
 #profilePicture {
     float: left;
     padding: 10px;   
@@ -12,13 +17,44 @@ Website http://taisencolcher-advancedwebassignment1.azurewebsites.net/contact / 
 
 }
 
-body {
-    background-color: lightgrey;
+#unityLogo {
+     float: left;
+    padding: 10px;   
+    height: 170px;
+    width: 280px;
+    
+}
+
+#unityText {
+    position: absolute;
+    top: 235px;
+    left: 320px;
+    
+}
+
+#blenderLogo {
+    position: absolute;
+     top: 350px;
+     left: 0;
+     height: 170px;
+    width: 280px;
+}
+
+#blenderText {
+    position: absolute;
+    top: 410px;
+    left: 320px;
     
 }
 
 h1 {
     text-align: center;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    
 }
 
 small {
@@ -55,5 +91,9 @@ textarea {
     left: 220px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     
+}
+
+#logoText {
+    color: black;
 }
 
